@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "lib": ["es2017", "dom"],
+    "moduleResolution": "node",
+    "jsx": "react",
+    "noEmit": true,
+    "strict": false,
+    "noImplicitThis": true,
+    "sourceMap": true,
+    "declaration": false,
+    "noUnusedLocals": true,
+    "pretty": true
+  },
+  "exclude": ["node_modules"]
+}
